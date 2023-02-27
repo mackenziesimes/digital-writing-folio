@@ -1,5 +1,5 @@
 # digital-writing-folio
-# readings
+# exercises
 ## week 1
 
 - [] create a GitHub account
