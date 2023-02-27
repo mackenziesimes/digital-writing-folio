@@ -25,3 +25,7 @@
 - The music allows me to create images and scenarios when writing fiction
 - it inspires characters, settings, senses, and plots
 - film inspires voice for me and the portrayal of information
+
+### How do these tools shape the way you write?
+- I am able to get my ideas out quickly without confusion as the digital platform allows me to edit as I write, a habit I've formed from a young age.
+- Constrains my ability to plan out structures or fully realise self contained pieces of writing.
