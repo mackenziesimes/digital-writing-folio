@@ -18,9 +18,10 @@
 
 - I use microsoft word
 - listen to music to garner inspiration
-- Use techniques from film surroundig dialogue and speaking to create a voice in my work
+- Use techniques from film surrounding dialogue and speaking to create a voice in my work
 
-###How do these tools shape the way you write
+### How do these tools shape the way you write? 
+- use microsoft word, I edit as I go so the digital platform works well for me
 - The music allows me to create images and scenarios when writing fiction
 - it inspires characters, settings, senses, and plots
 - film inspires voice for me and the portrayal of information
