@@ -33,3 +33,16 @@
 ## Week 2
 - (https://sable-smoggy-scene.glitch.me)
 - The glitch dadaist poetry exercise, found in dadaist repository. 
+
+Taroko Gorge(s)
+
+Taroko Gorge remix: Maria Engberg 'Alone Engaged'
+
+What aspects of the remix are the same?
+- The word formatting and coding are the same, the blank layout is also reminiscent of the original
+
+What aspects of the remix are different?
+- The words and "plot" of the poem are different, the background is also a different colour.
+- 
+Is the remix successful (why or why not)?
+- The remix seems very derivitive and doesnt build on anything from the original, merely copying the format identically and changing the words.
