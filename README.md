@@ -29,3 +29,7 @@
 ### How do these tools shape the way you write?
 - I am able to get my ideas out quickly without confusion as the digital platform allows me to edit as I write, a habit I've formed from a young age.
 - Constrains my ability to plan out structures or fully realise self contained pieces of writing.
+
+## Week 2
+- (https://sable-smoggy-scene.glitch.me)
+- The glitch dadaist poetry exercise, found in dadaist repository.
