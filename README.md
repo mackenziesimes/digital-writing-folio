@@ -32,4 +32,4 @@
 
 ## Week 2
 - (https://sable-smoggy-scene.glitch.me)
-- The glitch dadaist poetry exercise, found in dadaist repository.
+- The glitch dadaist poetry exercise, found in dadaist repository. 
