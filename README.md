@@ -20,7 +20,11 @@
 - listen to music to garner inspiration
 - Use techniques from film surroundig dialogue and speaking to create a voice in my work
 
-###How do these tools shape the way you write
+###How do these tools shape the way you write? 
+
 - The music allows me to create images and scenarios when writing fiction
 - it inspires characters, settings, senses, and plots
 - film inspires voice for me and the portrayal of information
+
+## Week 2 
+
