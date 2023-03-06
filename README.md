@@ -7,3 +7,8 @@
 
 - [] The Origins of Electronic Literature: An Overview
 
+## Week 2 
+
+-[] Literary art in digital performance
+- [] Permutation
+
