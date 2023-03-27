@@ -28,3 +28,12 @@
 
 ## Week 2 
 
+## Week 4
+
+## Week 5
+- Hypertext fiction
+
+# Readings
+- No Sense of an Ending: Hypertext Aesthetics
+- Hypertext Fiction Everafter
+
