@@ -1,6 +1,6 @@
 # digital-writing-folio
 # exercises
-## week 1
+# week 1
 
 - [] create a GitHub account
 - [] Do the GitHub Hello World
@@ -30,7 +30,7 @@
 - I am able to get my ideas out quickly without confusion as the digital platform allows me to edit as I write, a habit I've formed from a young age.
 - Constrains my ability to plan out structures or fully realise self contained pieces of writing.
 
-## Week 2
+# Week 2
 - (https://sable-smoggy-scene.glitch.me)
 - The glitch dadaist poetry exercise, found in dadaist repository. 
 
@@ -46,3 +46,34 @@ What aspects of the remix are different?
 - 
 Is the remix successful (why or why not)?
 - The remix seems very derivitive and doesnt build on anything from the original, merely copying the format identically and changing the words.
+
+# Week 5 
+A Short branching fiction story
+
+A. You awaken in a dark room, it is pitch black and cold concrete lay underneath you.
+1. reach to your left. go to B
+2. reach to your right. go to C
+
+B. Theres a matchbox with two matches in it. You decide to scope your surroundings and find a water stained mattress in the corner and a locked steel door. You are in a four walled room. 
+1. Try and open the door. Go to F.
+2. Walk to the mattress. Go to G. 
+
+C. You pick up what feels like a book, but you cannot see what it is just yet.
+1. Reach to your left, light a match. Go to B. 
+2. Throw the book. Go to D.
+
+D. You throw the book and you hear something tiny and metal fall out. It is a envelope knife. To your left you see some restitching on the mattress, as if it had been cut open and stitched shut.
+1. Use the knife to try and pick the lock on the door. Go to  G.
+2. Use the knife to unpick the stitching on the mattress. Go to H.
+
+E. You bang on the door and yell as loud as you can. You alarm someone on the other side of the door.
+YOU DIED
+
+F. the door doesn't open.
+1. Your match dies out. Go to C. 
+2. You begin to panic. Go to E. 
+
+G. The knife breaks the lock and you cant get out. You trigger an alarm that sends thunderous footsteps towards your room.
+YOU DIED
+
+H.
