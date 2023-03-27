@@ -74,18 +74,22 @@ F. the door doesn't open.
 2. You begin to panic. Go to E. 
 
 G. The knife breaks the lock and you cant get out. You trigger an alarm that sends thunderous footsteps towards your room.
-1. Arm yourself with the pocket knife to attack whoever comes in.
-2. Take the knife to your throat to threaten your own life when the kidnapper comes in, after all, they know you're better off alive than dead, you're too important. 
+1. Arm yourself with the pocket knife to attack whoever comes in. Go to P.
+2. Take the knife to your throat to threaten your own life when the kidnapper comes in, after all, they know you're better off alive than dead, you're too important. Go to Q. 
 
 H. You unpick the stitching of the mattress to reveal multiple items.
-1. Grab the new key, try to unlock the door. Go to J.
+1. Grab the new key. Go to J.
 2. Grab the pen. Go to M.
 
 I. 
 
-J.
+J. You notice theres 2 keyholes in the room. one in the side of the book, and one for the door.
+1. Use the key for the side of the book. go to L.
+2. Use the key for the door. go to I.
 
-L.
+L. The key successfully opens unpins the bindings of the riddle book, out falls little cuttings of paper and a large blank piece of paper. The small cuttings have pictures of you defending a murderer in court. One from each season of last year. Winter, Autumn, Spring, and Summer. On the back of the photos have "watching the door" on the back.
+1. Write this in the riddle book.
+2. 
 
 M. You take the pen and open the book. Its a scripture of riddles filled out, one left blank. The riddles are based on murders in the city from the past 2 months. You were lead detective in most of these cases, some went cold. The blank riddles goes:
 
@@ -97,13 +101,15 @@ The lawyer concludes by saying, “See! If you were so sure she killed her husba
 
 The jury immediately gave a guilty verdict. Why?
 
-1. Answer that the woman wasn't watching the door.
-2. 
+1. Answer that "the woman wasn't watching the door." Go to N.
+2. Leave the page blank. Go to O. 
 
 N.
 
 O.
 
 P.
+
+Q. 
 
 
