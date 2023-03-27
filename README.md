@@ -1,6 +1,6 @@
 # digital-writing-folio
 # readings
-## week 1
+# week 1
 
 - [] create a GitHub account
 - [] Do the GitHub Hello World
@@ -26,14 +26,11 @@
 - it inspires characters, settings, senses, and plots
 - film inspires voice for me and the portrayal of information
 
-## Week 2 
+# Week 2 
 
-## Week 4
+# Week 4
 
-## Week 5
+# Week 5
 - Hypertext fiction
 
-# Readings
-- No Sense of an Ending: Hypertext Aesthetics
-- Hypertext Fiction Everafter
 
