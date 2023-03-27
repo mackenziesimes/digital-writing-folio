@@ -56,7 +56,7 @@ A. You awaken in a dark room, it is pitch black and cold concrete lay underneath
 
 B. Theres a matchbox with two matches in it. You decide to scope your surroundings and find a water stained mattress in the corner and a locked steel door. You are in a four walled room. 
 1. Try and open the door. Go to F.
-2. Walk to the mattress. Go to G. 
+2. Walk to the mattress. Go to H. 
 
 C. You pick up what feels like a book, but you cannot see what it is just yet.
 1. Reach to your left, light a match. Go to B. 
@@ -67,13 +67,43 @@ D. You throw the book and you hear something tiny and metal fall out. It is a en
 2. Use the knife to unpick the stitching on the mattress. Go to H.
 
 E. You bang on the door and yell as loud as you can. You alarm someone on the other side of the door.
-YOU DIED
+1. 
 
 F. the door doesn't open.
 1. Your match dies out. Go to C. 
 2. You begin to panic. Go to E. 
 
 G. The knife breaks the lock and you cant get out. You trigger an alarm that sends thunderous footsteps towards your room.
-YOU DIED
+1. Arm yourself with the pocket knife to attack whoever comes in.
+2. Take the knife to your throat to threaten your own life when the kidnapper comes in, after all, they know you're better off alive than dead, you're too important. 
 
-H.
+H. You unpick the stitching of the mattress to reveal multiple items.
+1. Grab the new key, try to unlock the door. Go to J.
+2. Grab the pen. Go to M.
+
+I. 
+
+J.
+
+L.
+
+M. You take the pen and open the book. Its a scripture of riddles filled out, one left blank. The riddles are based on murders in the city from the past 2 months. You were lead detective in most of these cases, some went cold. The blank riddles goes:
+
+A woman was in court for killing her husband. She said she wasn’t guilty and that she dearly missed him. In the closing statement, the woman’s lawyer stands up and says, “Her husband was just missing. Everyone look at the doors. He’s going to walk through them in about 30 seconds.”
+
+The entire jury stares at the doors waiting for waiting for this woman’s husband to walk through the doors. The lawyer and the woman stare at the jury.
+
+The lawyer concludes by saying, “See! If you were so sure she killed her husband, you wouldn’t be watching that door!”
+
+The jury immediately gave a guilty verdict. Why?
+
+1. Answer that the woman wasn't watching the door.
+2. 
+
+N.
+
+O.
+
+P.
+
+
