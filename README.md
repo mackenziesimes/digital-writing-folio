@@ -6,7 +6,7 @@
 - [] Do the GitHub Hello World
 - [] add a repository for the folio
 - [] what types of writing do you do
-- [] what toolds do you use to write
+- [] what tools do you use to write
 - [] How do these tools shape the way you write
 
 ### What types of writing do you do?
