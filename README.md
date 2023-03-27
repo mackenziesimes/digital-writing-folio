@@ -16,3 +16,10 @@
 - The main way of constraining writing and poetry before code and digital writing.
 -	E.g., Mesostics, N+7, Fortran Two,
 - JGnoetry and generated poetry (http://www.eddeaddad.net/jGnoetry/) 
+
+## Week 4
+
+## Week 5
+- No Sense of an Ending: Hypertext Aesthetics
+- Hypertext Fiction Everafter
+
