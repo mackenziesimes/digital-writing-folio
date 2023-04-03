@@ -23,3 +23,7 @@
 - No Sense of an Ending: Hypertext Aesthetics
 - Hypertext Fiction Everafter
 
+## Week 6 
+Riddles
+- the riddle is an early form of interactive fiction
+- Cyberspace is "poetry inhabited"
