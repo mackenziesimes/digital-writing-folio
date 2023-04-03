@@ -104,12 +104,5 @@ The jury immediately gave a guilty verdict. Why?
 1. Answer that "the woman wasn't watching the door." Go to N.
 2. Leave the page blank. Go to O. 
 
-N.
-
-O.
-
-P.
-
-Q. 
-
+Twine - Room, finished on twine itself.
 
